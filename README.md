@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Burak, 20 years old, and I live in Isparta.<br>I am a computer programmer and<br>I am interested in cybersecurity, particularly with Python.
+Hello, I'm Burak, 20 years old, and I live in Isparta. I am a computer programmer, and I work in the field of Python development.
 
 
 ## 🌐 Socials:
