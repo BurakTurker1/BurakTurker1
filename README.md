@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I'm Burak, I'm 20 years old, and I live in Isparta. I'm generally a backend developer. I primarily develop mobile applications using Java and Kotlin. Additionally, I create and manage databases using MS SQL. In web development, I continue to leverage technologies such as .NET and Django to further my experience in backend development."
+Hello, I'm Burak, I'm 20 years old, and I live in Isparta. I'm generally a backend developer. I primarily develop mobile applications using Java and Kotlin. Additionally, I create and manage databases using MS SQL. In web development, I continue to leverage technologies such as .NET and Django to further my experience in backend development.
 
 
 
